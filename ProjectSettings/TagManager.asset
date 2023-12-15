@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Chair
+  - Table
+  - Door
+  - Board
+  - CapRight
+  - CapLeft
+  - a
+  - CPU
+  - MainCPU
+  - c
+  - WireTypeA
+  - WireTypeB
+  - Undefined
+  - PSU
+  - HDD2.5
+  - HDD3.5
+  - GPU
+  - Playerr
+  - Walkable
+  - Laptop
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - PcComponents
+  - Light
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Dark
+    uniqueID: 3517151377
+    locked: 0
